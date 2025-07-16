@@ -250,7 +250,7 @@ const App: React.FC = () => {
                   </span>
                 </div>
                 <div className="text-xs text-purple-300">
-                  ✨ AI insights coming soon
+                  {/* ✨ AI insights coming soon */}
                 </div>
               </div>
             </div>
